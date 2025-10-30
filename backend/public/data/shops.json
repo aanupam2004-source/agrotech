@@ -1,0 +1,168 @@
+[
+    {
+      "Name": "Priya Agrico",
+      "City": "Ranchi",
+      "Address": "Court Compound, Circular Road, Ranchi, Jharkhand 834001",
+      "Email": "N/A",
+      "Phone": "+91 94313 35577",
+      "Website": "http://www.priyaagrico.com/",
+      "Owner": "N/A",
+      "Latitude": 23.3700,
+      "Longitude": 85.3250
+    },
+    {
+      "Name": "Jharkhand Seeds Centre",
+      "City": "Ranchi",
+      "Address": "Court Compound Circular Road, Ranchi Court (Near SBI), Ranchi, Jharkhand 834001",
+      "Email": "N/A",
+      "Phone": "N/A",
+      "Website": "N/A",
+      "Owner": "Mr. Mithlesh Kumar",
+      "Latitude": 23.3701,
+      "Longitude": 85.3255
+    },
+    {
+      "Name": "Ganesh Seeds Center",
+      "City": "Ranchi",
+      "Address": "Piska Nagri, Ranchi (Check Post, Lodhma Rd)",
+      "Email": "N/A",
+      "Phone": "+91 96618 01634",
+      "Website": "N/A",
+      "Owner": "N/A",
+      "Latitude": 23.3785,
+      "Longitude": 85.2392
+    },
+    {
+      "Name": "Pinky Khad Bij & Hardware Bhandar & Furniture Dukaan",
+      "City": "Ranchi",
+      "Address": "Near Dena Bank, Kanke, Sukurhutu, Ranchi 834006",
+      "Email": "N/A",
+      "Phone": "+91 90068 15715",
+      "Website": "N/A",
+      "Owner": "N/A",
+      "Latitude": 23.4587,
+      "Longitude": 85.3206
+    },
+    {
+      "Name": "Roli Beej Bhandar & Hardware",
+      "City": "Ranchi",
+      "Address": "Kenke Block, Aransday Road, Ranchi 834006",
+      "Email": "N/A",
+      "Phone": "+91 72770 20036",
+      "Website": "N/A",
+      "Owner": "N/A",
+      "Latitude": 23.4601,
+      "Longitude": 85.3220
+    },
+    {
+      "Name": "Kisan Sewa Kendra",
+      "City": "Gumla",
+      "Address": "Gumla–Khunti–Ranchi Rd, Domba, Jharkhand 835203",
+      "Email": "N/A",
+      "Phone": "N/A",
+      "Website": "N/A",
+      "Owner": "N/A",
+      "Latitude": 23.0400,
+      "Longitude": 84.5500
+    },
+    {
+      "Name": "Prasad Beej Bhandar",
+      "City": "Dhanbad",
+      "Address": "Baliyapur Stand, Station Road, Jharia, Dhanbad",
+      "Email": "N/A",
+      "Phone": "+91 98356 86774",
+      "Website": "N/A",
+      "Owner": "N/A",
+      "Latitude": 23.7400,
+      "Longitude": 86.4200
+    },
+    {
+      "Name": "Khushwaha Beej Bhandar",
+      "City": "Dhanbad",
+      "Address": "Loko Bazar, Hatia Monda, Gomoh (Dhanbad); Pin: 828401",
+      "Email": "N/A",
+      "Phone": "N/A",
+      "Website": "N/A",
+      "Owner": "N/A",
+      "Latitude": 23.8700,
+      "Longitude": 86.1500
+    },
+    {
+      "Name": "Vikash Krishi Kendra",
+      "City": "Sahibganj",
+      "Address": "Gudara Ghat, near Rajmahal Railway Station, Sahibganj",
+      "Email": "N/A",
+      "Phone": "+91 90060 65737",
+      "Website": "N/A",
+      "Owner": "N/A",
+      "Latitude": 25.2300,
+      "Longitude": 87.6500
+    },
+    {
+      "Name": "Krishi Vikash Kendra",
+      "City": "Latehar",
+      "Address": "Mahatma Gandhi Main Rd, Chandwa, Jharkhand 829203",
+      "Email": "N/A",
+      "Phone": "+91 94313 91073",
+      "Website": "N/A",
+      "Owner": "N/A",
+      "Latitude": 23.7500,
+      "Longitude": 84.7500
+    },
+    {
+      "Name": "Kisan Beej Bhandar",
+      "City": "Latehar",
+      "Address": "Main Road, Bariyatu Balumath, Latehar, Jharkhand",
+      "Email": "N/A",
+      "Phone": "+91 99398 18919",
+      "Website": "N/A",
+      "Owner": "N/A",
+      "Latitude": 23.7300,
+      "Longitude": 84.7200
+    },
+    {
+      "Name": "Unnamed Dealer (Latehar)",
+      "City": "Latehar",
+      "Address": "Near Post Office, Main Road, Latehar, Jharkhand",
+      "Email": "N/A",
+      "Phone": "+91 95700 48303",
+      "Website": "N/A",
+      "Owner": "N/A",
+      "Latitude": 23.7505,
+      "Longitude": 84.7405
+    },
+    {
+      "Name": "Krishi Jagran",
+      "City": "Garhwa",
+      "Address": "Banshi Bihar, Nawada More, Garhwa, Jharkhand 822114",
+      "Email": "N/A",
+      "Phone": "N/A",
+      "Website": "N/A",
+      "Owner": "N/A",
+      "Latitude": 24.1500,
+      "Longitude": 83.8100
+    },
+    {
+      "Name": "Ved Prakash Agrico",
+      "City": "Palamu (Daltonganj)",
+      "Address": "Kutchury Road, Daltonganj, Palamu, Jharkhand 822101",
+      "Email": "N/A",
+      "Phone": "+91 99054 63273",
+      "Website": "N/A",
+      "Owner": "N/A",
+      "Latitude": 24.0300,
+      "Longitude": 84.0700
+    },
+    {
+      "Name": "Ishwar Beej Bhandar",
+      "City": "Digwar",
+      "Address": "Panda Tola, near Saraswati Mandir, Digwar, Jharkhand 829117",
+      "Email": "N/A",
+      "Phone": "N/A",
+      "Website": "N/A",
+      "Owner": "N/A",
+      "Latitude": 23.7500,
+      "Longitude": 85.0300
+    }
+  ]
+  
